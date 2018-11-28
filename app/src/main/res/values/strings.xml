@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Service1</string>
+    <string name="strt">start</string>
+    <string name="clk">click</string>
+</resources>
